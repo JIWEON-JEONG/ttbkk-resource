@@ -1,4 +1,4 @@
-# TTBKK - BACKEND INFO (작성 : 정지원, 구경완)
+# TTBKK - BACKEND INFO 
 
 # 목차
 - 백에서 DB 저장되는 Entity 와 데이터  
